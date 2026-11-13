@@ -1,0 +1,9 @@
+02c3 (08/09/2023)
+- Original file
+
+03c1 (20/08/2024)
+
+03c2 (15/09/2024)
+- Add CAN TERM text.
+- Change lot of attributes of symbols and prints for correct BOM generation with 'Fabrication Toolkit' JLCPCB plugin for Kicad 8.
+- Add BOM files to PCB
